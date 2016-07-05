@@ -1,5 +1,15 @@
 # Changelog
 
+## 2016-07-05
+
+### Added
+
+- added a loading animation to the naked iframe
+
+### Changed
+
+- Use custom icon font to get down file sizes
+
 ## 2016-06-14
 
 ### Fixed
