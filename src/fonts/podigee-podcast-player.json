@@ -4983,12 +4983,20 @@
 				{
 					"order": 0,
 					"ligatures": "forward_10",
-					"id": 345
+					"id": 345,
+					"prevSize": 24,
+					"code": 57430,
+					"name": "forward_10",
+					"tempChar": ""
 				},
 				{
-					"order": 0,
+					"order": 31,
 					"ligatures": "forward_30",
-					"id": 346
+					"id": 346,
+					"prevSize": 24,
+					"code": 57431,
+					"name": "forward-30",
+					"tempChar": ""
 				},
 				{
 					"order": 0,
@@ -5267,7 +5275,7 @@
 					"prevSize": 24,
 					"name": "episode-info",
 					"code": 59535,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
 					"order": 0,
@@ -5476,7 +5484,7 @@
 					"prevSize": 24,
 					"name": "playlist",
 					"code": 59542,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
 					"order": 0,
@@ -5694,8 +5702,8 @@
 					"id": 485,
 					"prevSize": 24,
 					"code": 57569,
-					"name": "mail_outline",
-					"tempChar": ""
+					"name": "mail-outline",
+					"tempChar": ""
 				},
 				{
 					"order": 0,
@@ -5999,7 +6007,7 @@
 					"prevSize": 24,
 					"name": "pause",
 					"code": 57396,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
 					"order": 0,
@@ -6213,7 +6221,7 @@
 					"prevSize": 24,
 					"name": "play",
 					"code": 57399,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
 					"order": 0,
@@ -6418,9 +6426,13 @@
 					"id": 625
 				},
 				{
-					"order": 0,
+					"order": 30,
 					"ligatures": "replay_10",
-					"id": 626
+					"id": 626,
+					"prevSize": 24,
+					"code": 57433,
+					"name": "backward-10",
+					"tempChar": ""
 				},
 				{
 					"order": 0,
@@ -6699,7 +6711,7 @@
 					"prevSize": 24,
 					"name": "share",
 					"code": 59405,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
 					"order": 0,
@@ -6779,12 +6791,20 @@
 				{
 					"order": 0,
 					"ligatures": "skip_next",
-					"id": 697
+					"id": 697,
+					"prevSize": 24,
+					"code": 57412,
+					"name": "skip_next",
+					"tempChar": ""
 				},
 				{
 					"order": 0,
 					"ligatures": "skip_previous",
-					"id": 698
+					"id": 698,
+					"prevSize": 24,
+					"code": 57413,
+					"name": "skip_previous",
+					"tempChar": ""
 				},
 				{
 					"order": 0,
@@ -20103,7 +20123,7 @@
 					"order": 23,
 					"prevSize": 32,
 					"code": 61593,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
 					"name": "facebook, facebook-f",
@@ -20111,7 +20131,7 @@
 					"order": 22,
 					"prevSize": 32,
 					"code": 61594,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
 					"name": "github",
@@ -20329,7 +20349,7 @@
 					"order": 24,
 					"prevSize": 32,
 					"code": 61653,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
 					"name": "money",
@@ -21947,7 +21967,7 @@
 					"order": 25,
 					"prevSize": 32,
 					"code": 62002,
-					"tempChar": ""
+					"tempChar": ""
 				},
 				{
 					"name": "server",
